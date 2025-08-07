@@ -1,0 +1,133 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RecursiveMathCalculator",
+            "request": "launch",
+            "mainClass": "RecursiveMathCalculator",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRecursionDemo",
+            "request": "launch",
+            "mainClass": "ArrayRecursionDemo",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "FactorialDemo",
+            "request": "launch",
+            "mainClass": "FactorialDemo",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSortImplementation",
+            "request": "launch",
+            "mainClass": "SelectionSortImplementation",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToeBoard",
+            "request": "launch",
+            "mainClass": "TicTacToeBoard",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "NumberArrayProcessor",
+            "request": "launch",
+            "mainClass": "NumberArrayProcessor",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "MatrixCalculator",
+            "request": "launch",
+            "mainClass": "MatrixCalculator",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAccessDemo",
+            "request": "launch",
+            "mainClass": "ArrayAccessDemo",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDeclarationDemo",
+            "request": "launch",
+            "mainClass": "ArrayDeclarationDemo",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayErrorHandlingDemo",
+            "request": "launch",
+            "mainClass": "ArrayErrorHandlingDemo",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTraversalDemo",
+            "request": "launch",
+            "mainClass": "ArrayTraversalDemo",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchDemo",
+            "request": "launch",
+            "mainClass": "BinarySearchDemo",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSortDemo",
+            "request": "launch",
+            "mainClass": "BubbleSortDemo",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "GradeStatisticsSystem",
+            "request": "launch",
+            "mainClass": "GradeStatisticsSystem",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSortDemo",
+            "request": "launch",
+            "mainClass": "InsertionSortDemo",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchDemo",
+            "request": "launch",
+            "mainClass": "LinearSearchDemo",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "TwoDimensionalArrayDemo",
+            "request": "launch",
+            "mainClass": "TwoDimensionalArrayDemo",
+            "projectName": "113tkuds_2_b841ff3a"
+        }
+    ]
+}
