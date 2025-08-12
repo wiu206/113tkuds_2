@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultiLevelCacheSystem",
+            "request": "launch",
+            "mainClass": "MultiLevelCacheSystem",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "MovingAverageStream",
+            "request": "launch",
+            "mainClass": "MovingAverageStream",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "MeetingRoomScheduler",
+            "request": "launch",
+            "mainClass": "MeetingRoomScheduler",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "StockMaximizer",
+            "request": "launch",
+            "mainClass": "StockMaximizer",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "SlidingWindowMedian",
+            "request": "launch",
+            "mainClass": "SlidingWindowMedian",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "MergeKSortedArrays",
+            "request": "launch",
+            "mainClass": "MergeKSortedArrays",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "KthSmallestElement",
+            "request": "launch",
+            "mainClass": "KthSmallestElement",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "PriorityQueueWithHeap",
+            "request": "launch",
+            "mainClass": "PriorityQueueWithHeap",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "ValidMaxHeapChecker",
+            "request": "launch",
+            "mainClass": "ValidMaxHeapChecker",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "BasicMinHeapPractice",
+            "request": "launch",
+            "mainClass": "BasicMinHeapPractice",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "KthLargest",
+            "request": "launch",
+            "mainClass": "KthLargest",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "TaskScheduler",
+            "request": "launch",
+            "mainClass": "TaskScheduler",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "HeapSort",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "HeapBuilder",
+            "request": "launch",
+            "mainClass": "HeapBuilder",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
             "name": "RecursiveMathCalculator",
             "request": "launch",
             "mainClass": "RecursiveMathCalculator",
