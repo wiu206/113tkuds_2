@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AVLPerformanceTest",
+            "request": "launch",
+            "mainClass": "AVLPerformanceTest",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "AVLInsertExample",
+            "request": "launch",
+            "mainClass": "AVLInsertExample",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "PersistentAVLExercise",
+            "request": "launch",
+            "mainClass": "PersistentAVLExercise",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "AVLLeaderboardSystem",
+            "request": "launch",
+            "mainClass": "AVLLeaderboardSystem",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "AVLRangeQueryExercise",
+            "request": "launch",
+            "mainClass": "AVLRangeQueryExercise",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "AVLDeleteExercise",
+            "request": "launch",
+            "mainClass": "AVLDeleteExercise",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "AVLRotationExercise",
+            "request": "launch",
+            "mainClass": "AVLRotationExercise",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "AVLBasicExercise",
+            "request": "launch",
+            "mainClass": "AVLBasicExercise",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "AVLTree",
+            "request": "launch",
+            "mainClass": "AVLTree",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "AVLRotations",
+            "request": "launch",
+            "mainClass": "AVLRotations",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "AVLNode",
+            "request": "launch",
+            "mainClass": "AVLNode",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
             "name": "MultiLevelCacheSystem",
             "request": "launch",
             "mainClass": "MultiLevelCacheSystem",
