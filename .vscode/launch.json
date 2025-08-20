@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "M12_MergeKTimeTables",
+            "request": "launch",
+            "mainClass": "M12_MergeKTimeTables",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "M11_HeapSortWithTie",
+            "request": "launch",
+            "mainClass": "M11_HeapSortWithTie",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "M10_RBPropertiesCheck",
+            "request": "launch",
+            "mainClass": "M10_RBPropertiesCheck",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "M09_AVLValidate",
+            "request": "launch",
+            "mainClass": "M09_AVLValidate",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "M08_BSTRangedSum",
+            "request": "launch",
+            "mainClass": "M08_BSTRangedSum",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "M07_BinaryTreeLeftView",
+            "request": "launch",
+            "mainClass": "M07_BinaryTreeLeftView",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "M06_PalindromeClean",
+            "request": "launch",
+            "mainClass": "M06_PalindromeClean",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "M05_GCD_LCM_Recursive",
+            "request": "launch",
+            "mainClass": "M05_GCD_LCM_Recursive",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "M04_TieredTaxSimple",
+            "request": "launch",
+            "mainClass": "M04_TieredTaxSimple",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "M03_TopKConvenience",
+            "request": "launch",
+            "mainClass": "M03_TopKConvenience",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "M02_YouBikeNextArrival",
+            "request": "launch",
+            "mainClass": "M02_YouBikeNextArrival",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "M01_BuildHeap",
+            "request": "launch",
+            "mainClass": "M01_BuildHeap",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
             "name": "AVLPerformanceTest",
             "request": "launch",
             "mainClass": "AVLPerformanceTest",
