@@ -39,7 +39,7 @@ public class M04_TieredTaxSimple {
             sum += t;
             out.append("Tax: ").append(t).append('\n');
         }
-        long avg = (sum + n / 2) / n; // 四捨五入
+        long avg = (sum + n / 2) / n; 
         out.append("Average: ").append(avg);
         System.out.print(out.toString());
     }

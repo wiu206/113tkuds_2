@@ -6,6 +6,160 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LC40_CombinationSum2_Procurement",
+            "request": "launch",
+            "mainClass": "LC40_CombinationSum2_Procurement",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC39_CombinationSum_PPE",
+            "request": "launch",
+            "mainClass": "LC39_CombinationSum_PPE",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC34_SearchRange_DelaySpan",
+            "request": "launch",
+            "mainClass": "LC34_SearchRange_DelaySpan",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC33_SearchRotated_RentHot",
+            "request": "launch",
+            "mainClass": "LC33_SearchRotated_RentHot",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC28_StrStr_NoticeSearch",
+            "request": "launch",
+            "mainClass": "LC28_StrStr_NoticeSearch",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC27_RemoveElement_Recycle",
+            "request": "launch",
+            "mainClass": "LC27_RemoveElement_Recycle",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC26_RemoveDuplicates_Scores",
+            "request": "launch",
+            "mainClass": "LC26_RemoveDuplicates_Scores",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC25_ReverseKGroup_Shifts",
+            "request": "launch",
+            "mainClass": "LC25_ReverseKGroup_Shifts",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC24_SwapPairs_Shifts",
+            "request": "launch",
+            "mainClass": "LC24_SwapPairs_Shifts",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC23_MergeKLists_Hospitals",
+            "request": "launch",
+            "mainClass": "LC23_MergeKLists_Hospitals",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC21_MergeTwoLists_Clinics",
+            "request": "launch",
+            "mainClass": "LC21_MergeTwoLists_Clinics",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC19_RemoveNth_Node_Clinic",
+            "request": "launch",
+            "mainClass": "LC19_RemoveNth_Node_Clinic",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC18_4Sum_Procurement",
+            "request": "launch",
+            "mainClass": "LC18_4Sum_Procurement",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC17_PhoneCombos_CSShift",
+            "request": "launch",
+            "mainClass": "LC17_PhoneCombos_CSShift",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC15_3Sum_THSRStops",
+            "request": "launch",
+            "mainClass": "LC15_3Sum_THSRStops",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC11_MaxArea_FuelHoliday",
+            "request": "launch",
+            "mainClass": "LC11_MaxArea_FuelHoliday",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC32_LongestValidParen_Metro",
+            "request": "launch",
+            "mainClass": "LC32_LongestValidParen_Metro",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC20_ValidParentheses_AlertFormat",
+            "request": "launch",
+            "mainClass": "LC20_ValidParentheses_AlertFormat",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC04_Median_QuakeFeeds",
+            "request": "launch",
+            "mainClass": "LC04_Median_QuakeFeeds",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC03_NoRepeat_TaipeiMetroTap",
+            "request": "launch",
+            "mainClass": "LC03_NoRepeat_TaipeiMetroTap",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC01_TwoSum_THSRHoliday",
+            "request": "launch",
+            "mainClass": "LC01_TwoSum_THSRHoliday",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
+            "name": "LC01_TwoSum_THSRHoliday",
+            "request": "launch",
+            "mainClass": "finalexam.LC01_TwoSum_THSRHoliday",
+            "projectName": "113tkuds_2_b841ff3a"
+        },
+        {
+            "type": "java",
             "name": "M12_MergeKTimeTables",
             "request": "launch",
             "mainClass": "M12_MergeKTimeTables",

@@ -35,7 +35,7 @@ public class M10_RBPropertiesCheck {
             col[i] = c;
         }
 
-        if (n == 0 || val[0] == -1) { // 空樹視為所有性質成立
+        if (n == 0 || val[0] == -1) { 
             System.out.println("RB Valid");
             return;
         }
@@ -71,7 +71,7 @@ public class M10_RBPropertiesCheck {
     static final int FAIL = Integer.MIN_VALUE / 2;
 
     static int blackHeight(int i, int n, int[] val, char[] col) {
-        if (i >= n || val[i] == -1) return 1; // NIL 視為黑，計 1
+        if (i >= n || val[i] == -1) return 1;
         int L = blackHeight(2 * i + 1, n, val, col);
         if (L == FAIL) return FAIL;
         int R = blackHeight(2 * i + 2, n, val, col);

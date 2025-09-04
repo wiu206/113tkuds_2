@@ -25,10 +25,10 @@ public class M11_HeapSortWithTie {
         long[] a = new long[n];
         for (int i = 0; i < n; i++) {
             int score = fs.nextInt();
-            a[i] = (((long) score) << 32) | (i & 0xffffffffL); // key: (score, index)
+            a[i] = (((long) score) << 32) | (i & 0xffffffffL); 
         }
 
-        for (int i = (n >>> 1) - 1; i >= 0; i--) siftDown(a, n, i);  // build max-heap
+        for (int i = (n >>> 1) - 1; i >= 0; i--) siftDown(a, n, i); 
         for (int end = n - 1; end > 0; end--) {
             long tmp = a[0]; a[0] = a[end]; a[end] = tmp;
             siftDown(a, end, 0);
@@ -48,7 +48,7 @@ public class M11_HeapSortWithTie {
             int l = (i << 1) + 1;
             if (l >= n) break;
             int r = l + 1, best = l;
-            if (r < n && a[r] > a[l]) best = r;      // larger key = (score大，或同分index大)
+            if (r < n && a[r] > a[l]) best = r;    
             if (a[i] >= a[best]) break;
             long t = a[i]; a[i] = a[best]; a[best] = t;
             i = best;

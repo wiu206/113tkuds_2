@@ -33,7 +33,7 @@ public class M02_YouBikeNextArrival {
         while (q != null && q.trim().isEmpty()) q = br.readLine();
         int query = toMinutes(q.trim());
 
-        int lo = 0, hi = n; // [lo, hi)
+        int lo = 0, hi = n; 
         while (lo < hi) {
             int mid = (lo + hi) >>> 1;
             if (arr[mid] <= query) lo = mid + 1;
